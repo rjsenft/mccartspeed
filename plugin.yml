@@ -1,3 +1,8 @@
 name: McCartSpeed
 main: net.cloudapp.mcminecraftwest.bukkit.mccartspeed.McCartSpeed
 version: 0.0.0
+
+commands:
+  mccart:
+    description: This command controls the global minecart speed
+    usage: /<command> [set/get] [value]
